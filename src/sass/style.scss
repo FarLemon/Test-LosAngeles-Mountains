@@ -53,17 +53,6 @@ body {
   height: 100%;
   display: grid;
   place-items: center;
-
-  // Works in envirenment, doesn't after compiling SASS ;-;
-  //
-  // -webkit-mask-image: url("../assets/hero/hero__background__mask.svg");
-  // mask-image: url("../assets/hero/hero__background__mask.svg");
-  // -webkit-mask-repeat: no-repeat;
-  // mask-repeat: no-repeat;
-  // -webkit-mask-position: center;
-  // mask-position: center;
-  // -webkit-mask-size: cover;
-  // mask-size: cover;
 }
 
 .hero__content__image {
